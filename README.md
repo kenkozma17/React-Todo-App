@@ -7,5 +7,5 @@ This is a simple application that has todo list functionality. It can add list i
 # Usage
 
 * Clone or download project.
-* Install all dependencies with #npm install
-* Run the dev server with #npm start
+* Install all dependencies with "npm install"
+* Run the dev server with "npm start"
