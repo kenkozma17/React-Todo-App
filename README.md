@@ -11,7 +11,7 @@ This is a simple application that has todo list functionality. It can add list i
 * Event Handling
 * JSX
 
-# Usage
+# Installation and Usage
 
 1. Clone or download project.
 2. Install npm dependencies.
